@@ -1,0 +1,13 @@
+{
+  "name": "polinom-bot",
+  "version": "1.0.0",
+  "description": "Messenger Bot in Node.js on Docker",
+  "author": "Mario Espinoza <mario@polinom.io>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
